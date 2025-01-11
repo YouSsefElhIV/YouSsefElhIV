@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Youssef and I'm from planet Earth</h2>
+<h2 align="left">Hi, I am Youssef</h2>
 
 ###
 
