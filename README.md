@@ -1,5 +1,5 @@
 [![yel-haya's 42 stats](https://badge.mediaplus.ma/black/yel-haya)](https://github.com/oakoudad/badge42)
-- 📫 How to reach me: 
+- 📫 How to reach me: https://www.linkedin.com/in/youssef-el-hayany-697090336
 <!--
 **YouSsefElhIV/YouSsefElhIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
