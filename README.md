@@ -1,6 +1,5 @@
 <h2 align="left">Hi, I am Youssef</h2>
 ###
-    <div style="font-family:sans-serif;font-weight:bold;color:#ffffff;box-sizing:border-box;padding:20px;width:450px;height:275px;border-radius:10px;background-color:#344648;"><div style="margin-bottom:20px"><h2 class="slideDown" style="margin:0;font-size:18px"><span>oakoudad</span>&#x27;s Profile</h2></div><div class="slideDown" style="margin-bottom:20px;display:flex;align-items:center">
     
 
 <div align="center">
