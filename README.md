@@ -10,12 +10,6 @@
 </div>
 
 <br clear="both">
-
-
-<svg viewBox="0 0 450 275" width="450" height="275" xmlns="http://www.w3.org/2000/svg"><foreignObject width="100%" height="100%"><style>.slideUp{animation-duration:1s;animation-name:slideUp}.slideDown{animation-duration:1s;animation-name:slideDown}.flipInX{animation-duration:1s;animation-name:flipInX}@keyframes  slideUp{from{opacity:0;transform:translateY(20px)}25%{opacity:0}to{opacity:1;transform:translateY(0)}}@keyframes  slideDown{from{opacity:0;transform:translateY(-20px)}25%{opacity:0}to{opacity:1;transform:translateY(0)}}@keyframes  flipInX{from{transform:perspective(400px) rotate3d(1,0,0,90deg);animation-timing-function:ease-in;opacity:0}40%{transform:perspective(400px) rotate3d(1,0,0,-20deg);animation-timing-function:ease-in}60%{transform:perspective(400px) rotate3d(1,0,0,10deg);opacity:1}80%{transform:perspective(400px) rotate3d(1,0,0,-5deg)}to{transform:perspective(400px)}}</style><svg xmlns="http://www.w3.org/1999/xhtml">
-    <div style="font-family:sans-serif;font-weight:bold;color:#ffffff;box-sizing:border-box;padding:20px;width:450px;height:275px;border-radius:10px;background-color: black;    position: relative;display: grid;overflow: hidden;">
-        <div style="background-color: #ffffff40;width: 110%;height: 100px;position: absolute;left: -10px;bottom: -48px;z-index: 0;transform: rotate(1deg);"></div>
-        <div style="margin-bottom:20px"><h2 class="slideDown" style="margin:0;font-size:18px"><span>oakoudad</span>&#x27;s Profile</h2></div><div class="slideDown" style="margin-bottom:20px;display:flex;align-items:center">
     
     
 
