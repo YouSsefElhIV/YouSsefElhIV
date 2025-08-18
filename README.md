@@ -1,6 +1,7 @@
 <h2 align="left">Hi, I am Youssef</h2>
-
+<div align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/yel-haya" alt="yel-haya's 42 stats" /></a>
+    <div align="center">
 ###
     
 <div align="center">
