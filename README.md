@@ -31,7 +31,6 @@ application architecture, database design, authentication, and APIs.
 I also enjoy exploring lower-level programming, networking, and
 system administration.
 
-- Currently building a full-stack online chess platform.
 - Deepening my knowledge of Java, Spring Boot, and PostgreSQL.
 - Exploring application security, Docker, and system design.
 - Interested in backend and full-stack software engineering opportunities.
@@ -131,7 +130,3 @@ A 3D graphical project inspired by classic raycasting engines.
 *Interested in collaborating on interesting engineering projects.*
 
 </div>
-
-
-<div align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/yel-haya" alt="yel-haya's 42 stats" /></a>
