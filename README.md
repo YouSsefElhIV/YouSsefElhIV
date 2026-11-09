@@ -1,86 +1,149 @@
 
-<h1 align="center">Hi, I'm Youssef 👋</h1>
+<div align="center">
 
-<h3 align="center">
-  Software Engineering Student | Backend & Full-Stack Developer
-</h3>
+# Youssef
 
-<p align="center">
-  I enjoy building applications, designing backend systems,
-  and understanding how software works under the hood.
+### Software Engineer in Progress · Backend & Full-Stack Development
+
+Building software, solving problems, and understanding what happens
+behind the scenes.
+
+<br/>
+
+<a href="https://github.com/YouSsefElhIV">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/youssef-el-hayany">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</div>
+
+---
+
+## `01` &nbsp; About Me
+
+I'm a software engineering student at **1337**, interested in building
+reliable applications and understanding the engineering behind them.
+
+My main focus is backend development, where I enjoy working on
+application architecture, database design, authentication, and APIs.
+
+I also enjoy exploring lower-level programming, networking, and
+system administration.
+
+- Currently building a full-stack online chess platform.
+- Deepening my knowledge of Java, Spring Boot, and PostgreSQL.
+- Exploring application security, Docker, and system design.
+- Interested in backend and full-stack software engineering opportunities.
+
+---
+
+## `02` &nbsp; Technologies & Tools
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/youssef-el-hayany/">
-    LinkedIn
-  </a>
-  •
-  <a href="https://www.tryhackme.com/r/p/YouSsef">
-    TryHackMe
-  </a>
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,postgres,redis,nodejs,express" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+</p>
+
+### Development & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx,bash" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## `03` &nbsp; Featured Projects
 
-- 🎓 Software engineering student at 1337.
-- ☕ Currently focusing on Java and Spring Boot.
-- 🔧 Interested in backend engineering, REST APIs and database design.
-- 🌱 Exploring Docker, PostgreSQL and application security.
-- ♟️ Building a full-stack online chess platform.
-- 🎯 Always looking to learn, build and improve.
+### ♟️ Online Chess Platform
+**React · Spring Boot · PostgreSQL · Redis · Docker**
 
-### 🛠️ Tech Stack
+A full-stack online chess platform focused on delivering a complete
+player experience and a structured backend architecture.
 
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Backend & Database**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Frontend & Tools**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🚀 Featured Projects
-
-**♟️ Online Chess Platform**
-
-A full-stack chess application built with React, Spring Boot and PostgreSQL.
-
-- REST API and authentication.
-- Player profiles, friends and game history.
-- Multiple game modes and ELO ratings.
-- Docker-based deployment.
-
-**🌐 ft_irc**
-
-A multi-client IRC server implemented in C++98.
-
-- Client connections and communication.
-- IRC command handling.
-- Network programming and socket management.
-
-**🐳 Inception**
-
-A containerized WordPress infrastructure using Docker.
+- Custom authentication and account management.
+- Player profiles, friends, and social features.
+- Multiple time controls and ELO-based rating systems.
+- Game history, statistics, and player progression.
+- RESTful API backed by PostgreSQL.
 
 ---
 
-<p align="center">
-  <i>Building things, learning continuously, and getting better every day.</i>
-</p>
+### 🌐 ft_irc
+**C++98 · TCP/IP · Socket Programming**
+
+An IRC server implemented from scratch, supporting multiple clients
+and real-time communication.
+
+- TCP socket management.
+- Multiple simultaneous client connections.
+- IRC command parsing and handling.
+- Client-server communication.
+
+---
+
+### 🐳 Inception
+**Docker · Linux · NGINX · WordPress · MariaDB**
+
+A containerized infrastructure project focused on understanding
+service isolation, networking, and deployment.
+
+- Docker containers and custom images.
+- Reverse proxy configuration with NGINX.
+- Persistent volumes and service communication.
+- Infrastructure managed through Docker Compose.
+
+---
+
+### 🎮 Cub3d
+**C · Raycasting · Graphics**
+
+A 3D graphical project inspired by classic raycasting engines.
+
+- Raycasting-based 3D rendering.
+- Player movement and collision detection.
+- Map parsing and validation.
+- Texture rendering.
+
+---
+
+## `04` &nbsp; GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YouSsefElhIV&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouSsefElhIV&layout=compact&hide_border=true&theme=github_dark" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YouSsefElhIV&theme=github-compact&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Always learning. Always building.
+
+*Interested in collaborating on interesting engineering projects.*
+
+</div>
+
 
 <div align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/yel-haya" alt="yel-haya's 42 stats" /></a>
